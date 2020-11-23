@@ -96,15 +96,15 @@ while True:
 
     # Cari
     elif menu.lower() == 'c':
-        print("Mencari data nilai: ")
+        print("Mencari data: ")
         print("=================================================")
-        nama = input("Masukan nama untuk mencari data nilai : ")
+        nama = input("Masukan nama untuk mencari data: ")
         if nama in data.keys():
-            print("Nama {0}, dengan NIM : {1}\n"
-                  "Nilai Tugas: {2}, UTS: {3}, dan UAS: {4}\n"
-                  "dan nilai akhir {5}".format(nama, data[nama][1],
-                                               data[nama][2], data[nama][3],
-                                               data[nama][4], data[nama][5]))
+            print('\nResult')
+            print("Nama: {0}\nNIM : {1}\nNilai Tugas: {2}\nUTS: {3}\nUAS: {4}\nNilai akhir: {5}"
+                  .format(nama, data[nama][1],
+                                data[nama][2], data[nama][3],
+                                data[nama][4], data[nama][5]))
         else:
             print("'{}' tidak ditemukan.".format(nama))
 
@@ -118,4 +118,4 @@ while True:
             print("'{}' tidak ditemukan.".format(nama))
 
     else:
-        print("Silahkan masukan menu terlebih dahulu.")
+        print("Upss ada yang salah, silahkan cek kembali.")
