@@ -1,5 +1,5 @@
 # lab-5
-## Latihan 1
+## Tugas Praktikum 5
 
 ![soal-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/1.png)
 
