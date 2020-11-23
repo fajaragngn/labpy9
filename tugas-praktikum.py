@@ -65,6 +65,7 @@ while True:
                 data[nama][2] = int(input("Ubah Nilai Tugas: "))
                 data[nama][3] = int(input("Ubah Nilai UTS: "))
                 data[nama][4] = int(input("Ubah Nilai UAS: "))
+                data[nama][5] = data[nama][2] *30/100 + data[nama][3]*35/100 + data[nama][4] *35/100 
                 print("\nBerhasil ubah data!")
                 print("___________________________________________________________________")
                 print("| No |      Nama      |    NIM    | Tugas |  UTS  |  UAS  | Akhir |")
