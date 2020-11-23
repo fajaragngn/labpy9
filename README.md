@@ -20,16 +20,25 @@ Penjelasan:
 Output:
 
 Tambah data
+
 ![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/t.png)
 
+
 Lihat data
+
 ![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/l.png)
 
+
 Ubah data
+
 ![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/u.png)
 
+
 Cari data
+
 ![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/c.png)
 
+
 Hapus data
+
 ![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/h.png)
