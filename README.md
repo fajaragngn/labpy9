@@ -11,6 +11,8 @@
 ![sc-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/5.png)
 
 **Penjelasan:**
+
+**Header**
 * ``data={}`` list dengan format dictionary
 * Gunakanlah perulangan ``While`` untuk menampilkan data sebanyak banyaknya
 * ``menu = input("(T)ambah, (U)bah, (H)apus, (L)ihat, (C)ari, (K)eluar: ")`` kita tambahkan input Tambah, Ubah, Hapus, Lihat, Cari, Keluar dalam variabel menu
@@ -34,7 +36,16 @@
 * ``sub_data = input("(Semua), (Nama), (NIM), (Tugas), (UTS), (UAS) : ")`` memmbuat menu ubah di dalam ``sub_data``
 * ``if sub_data.lower() == "semua":`` ambil kata kunci 'semua' di dalam ``sub_data`` jika 'semua' maka input ``data[nama][1] = input("Ubah NIM:") data[nama][2] = int(input("Ubah Nilai Tugas: ")) data[nama][3] = int(input("Ubah Nilai UTS: ")) data[nama][4] = int(input("Ubah Nilai UAS: "))``
 * ``data[nama][5] = data[nama][2] *30/100 + data[nama][3]*35/100 + data[nama][4] *35/100 `` kita dapatkan nilai akhir dengan diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%), *ket: [5] = nilai_akhir, dimana [0] = nama*
-* 
+* lalu cetak ``print("\nBerhasil ubah data!")``
+* Jika kita ingin mengubah data tertentu maka ``elif sub_data.lower() == "nim": data[nama][1] = input("NIM:")`` dan berlaku juga untuk nilai tugas, UTS dan UAS
+* lalu cetak ``print("\nBerhasil ubah data!")``
+* ``else: print("'{}' tidak ditemukan.".format(nama))`` jika kita salah dalam memasukkan nama untuk mengubah data maka akan muncul 'nama tidak di temukan'
+
+**Cari data**
+* ``elif menu.lower() == 'c':`` Ambil data 'c' dari ``menu`` 
+* ``nama = input("Masukan nama untuk mencari data: ")`` kita akan menginput data yang nanti akan di cari
+* ``if nama in data.keys():`` 
+
 **Output:**
 
 Tambah data
