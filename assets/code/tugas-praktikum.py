@@ -110,7 +110,7 @@ while True:
 
     # Hapus
     elif menu.lower() == 'h':
-        nama = input("Masukan nama untuk menghapus sub_data : ")
+        nama = input("Masukan nama untuk menghapus data : ")
         if nama in data.keys():
             del data[nama]
             print("sub_data '{}' berhasil dihapus.".format(nama))
