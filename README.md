@@ -83,11 +83,6 @@ Ubah data
 ![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/u.png)
 
 
-Hapus data
-
-![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/h.png)
-
-
 Lihat data
 
 ![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/l.png)
@@ -96,6 +91,11 @@ Lihat data
 Cari data
 
 ![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/c.png)
+
+
+Hapus data
+
+![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/h.png)
 
 
 **Flowchart:**
