@@ -13,7 +13,7 @@
 **Penjelasan:**
 * ``data={}`` list dengan format dictionary
 * Gunakanlah perulangan ``While`` untuk menampilkan data sebanyak banyaknya
-* ``menu = input("(T)ambah, (U)bah, (H)apus, (L)ihat,(C)ari, (K)eluar: ")`` kita tambahkan input Tambah, Ubah, Hapus, Lihat, Cari, Keluar dalam variabel menu
+* ``menu = input("(T)ambah, (U)bah, (H)apus, (L)ihat, (C)ari, (K)eluar: ")`` kita tambahkan input Tambah, Ubah, Hapus, Lihat, Cari, Keluar dalam variabel menu
 * masukan nama, nim, nilai_tugas, nilai_uts, nilai_uas, dan nilai_akhir. nilai akhir didapat dari = (nilai_tugas)*30/100 + (nilai_uts)*35/100 + (nilai_uas)*35/100 
 * 
 

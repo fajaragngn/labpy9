@@ -6,7 +6,7 @@ data = {}
 
 while True:
     print("\n")
-    menu = input("(L) Lihat, (T) Tambah, (U) Ubah, (H) Hapus, (C) Cari, (K) Keluar: ")
+    menu = input("(L) Lihat, (T) Tambah, (H) Hapus, (U) Ubah, (C) Cari, (K) Keluar: ")
     print("\n")
 
     # Keluar
