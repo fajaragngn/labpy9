@@ -24,6 +24,10 @@
 * masukan nama, nim, nilai_tugas, nilai_uts, nilai_uas, dan nilai_akhir yang nanti akan di masukkan kedalam ``data={}``
 * Nilai akhir didapat dari = (nilai_tugas)*30/100 + (nilai_uts)*35/100 + (nilai_uas)*35/100 
 
+**Keluar**
+* ``if menu.lower() == 'k':`` Ambil data 'k' dari ``menu`` 
+* lalu ``break`` untuk menghentikan seluruh proses
+
 **Lihat data**
 * ``elif menu.lower() == 'l':`` Kita menggunakan kondisi percabangan if, ambil data dari ``menu`` lalu kita akan mengubah perintah 'l' yang kita input menjadi huruf kecil dengan fungsi ``lower()``
 * lalu cetak ``print()``
@@ -61,6 +65,8 @@
 * ``del data[nama]`` hapus semua 'nama'  yang ada di dalam 'data'
 * jika sudah maka cetak ``print("sub_data '{}' berhasil dihapus.".format(nama))``
 * ``else: print("'{}' tidak ditemukan.".format(nama))`` jika data yang kita input salah/tidak ditemukan maka akan tercetak 'nama tidak di temukan'
+
+
 
 **Output:**
 
