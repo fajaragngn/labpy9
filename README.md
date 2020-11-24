@@ -3,7 +3,7 @@
 
 ![soal-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/1.png)
 
-**Code**
+**Code:**
 
 ![sc-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/2.png)
 ![sc-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/3.png)
