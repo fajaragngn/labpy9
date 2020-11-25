@@ -1,4 +1,4 @@
-# lab-4
+# Lab 4
 ## Latihan 1
 ![soal-latihan-1](assets/img/tugas-praktikum-4/latihan1/1.png)
 
@@ -51,11 +51,7 @@ tambah elemen list
 ![flowchart-praktikum-1](assets/img/tugas-praktikum-4/tugas-praktikum/4.png)
 
 
-# lab-5
-## Latihan 1
-
-* Belom
-
+# Lab 5
 ## Tugas Praktikum 5
 
 ![soal-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/1.png)
