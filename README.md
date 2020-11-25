@@ -49,11 +49,6 @@ tambah elemen list
 **Flowchart:**
 
 
-<div align="center">
-  <img alt="flowchart-praktikum-1" src="assets/img/tugas-praktikum-4/tugas-praktikum/4.png" />
-</p>
-
-
 # lab-5
 ## Latihan 1
 
