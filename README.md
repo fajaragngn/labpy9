@@ -48,6 +48,8 @@ tambah elemen list
 
 **Flowchart:**
 
+![flowchart-praktikum-1](assets/img/tugas-praktikum-4/tugas-praktikum/4.png)
+
 
 # lab-5
 ## Latihan 1
